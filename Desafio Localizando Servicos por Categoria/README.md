@@ -5,9 +5,9 @@ Dentro do (portal.azure.com)(https://portal.azure.com) nós temos muitos recuros
 * Modificação de layout do portal, incluindo idioma e estilo
 * Busca por categorias
 * Diversos recursos, tais como: 
-**AI + machine learning
-**Analytics
-**Compute
+** AI + machine learning
+** Analytics
+** Compute
 **Containers
 **Databases
 **DevOps
