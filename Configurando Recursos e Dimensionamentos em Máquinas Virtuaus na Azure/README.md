@@ -52,3 +52,22 @@ Ao criar ou escalar uma VM, você pode distribuí-la em **Zonas de Disponibilida
 - O uso de **Zonas de Disponibilidade** melhora a tolerância a falhas.
 - O disco parado resulta em custo. Escolher a opção **excluir VM** reduzirá os custos incorridos.
 - **Excluir o IP público e a NIC quando a VM for excluída** também economizará recursos e tornará a administração de nossa rede mais limpa.
+
+# Aplicativos de Funções
+- Cada pilha de runtime roda uma linguagem de programação. Ela possui uma versão e uma região. Além disso, ela possuirá um SO de acordo com sua disponibilidades. Abaixo a tabela de disponibilidade:
+
+# Aplicativos e Funções no Azure
+
+| Aplicativo            | Função                                            | Pilha de Runtime               | Sistema Operacional Disponível |
+|-----------------------|---------------------------------------------------|--------------------------------|-------------------------------|
+| Azure App Service      | Hospedagem de Aplicações Web                      | .NET, Java, Python, Node.js    | Windows, Linux                |
+| Azure Functions        | Execução de Código "Serverless" sob Demanda       | C#, Java, Python, Node.js      | Windows, Linux                |
+| Azure Kubernetes Service (AKS) | Orquestração de Containers                    | Suporte para qualquer linguagem | Windows, Linux                |
+| Azure Logic Apps       | Automação de Fluxos de Trabalho sem Código        | Baseado em Conectores de API   | N/A                           |
+| Azure Virtual Machines | VMs para hospedagem personalizada                 | Suporte para qualquer linguagem | Windows, Linux                |
+| Azure Spring Apps      | Execução de Aplicações Spring Boot (Java)         | Java (Spring Boot)             | Linux                         |
+| Azure Container Instances | Execução rápida de containers                     | Suporte para qualquer linguagem | Linux                         |
+| Azure Static Web Apps  | Hospedagem de Aplicações Front-End Estáticas      | JavaScript (React, Vue, Angular)| Linux                         |
+| Azure API Management   | Gerenciamento de APIs com segurança e análise     | Suporte para qualquer linguagem | N/A                           |
+| Azure Batch            | Execução de Tarefas Computacionais em Lote        | Suporte para qualquer linguagem | Windows, Linux                |
+
