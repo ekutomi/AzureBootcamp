@@ -11,3 +11,4 @@ Todos os passos do bootcamp foram seguidos.
 7. Rodando e chamando o nosso recurso! ![Image 7](./image-7.png)
 8. Baixando as libs ![Image 8](./image-9.png)
 9. Rodando pelo azure openAi ![Image 9](./image-8.png)
+10. Conversando com o OpenAI definindo o systema e o usuário ![Image 10](./image-10.png)
