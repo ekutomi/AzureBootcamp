@@ -10,5 +10,6 @@
 6 - Crie seu documento PDF a ser utilizado no modelo: ![image](./image-6.png) 
 7 - Adicione dados via o Azure Search: ![image](./image-7.png) 
 8 - Cria o Azure Search: ![image](./image-8.png) 
-
-O tutorial para por aqui pois uma instância do Azure Search é cara
+9 - Adiciona o documento: ![image](./image-9.png) 
+10 - Seleciona os recursos necessários: ![image](./image-10.png) 
+11 - Adicione a mensagem de sistema e use o modelo: ![image](./image-10.png) 
