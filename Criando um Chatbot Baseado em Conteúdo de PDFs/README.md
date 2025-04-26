@@ -9,5 +9,6 @@
 5 - Escolha o modelo, neste caso gpt-4o: ![image](./image-5.png) 
 6 - Crie seu documento PDF a ser utilizado no modelo: ![image](./image-6.png) 
 7 - Adicione dados via o Azure Search: ![image](./image-7.png) 
+8 - Cria o Azure Search: ![image](./image-8.png) 
 
 O tutorial para por aqui pois uma instância do Azure Search é cara
