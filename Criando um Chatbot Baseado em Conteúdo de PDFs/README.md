@@ -12,4 +12,4 @@
 8 - Cria o Azure Search: ![image](./image-8.png) 
 9 - Adiciona o documento: ![image](./image-9.png) 
 10 - Seleciona os recursos necessários: ![image](./image-10.png) 
-11 - Adicione a mensagem de sistema e use o modelo: ![image](./image-10.png) 
+11 - Adicione a mensagem de sistema e use o modelo: ![image](./image-11.png) 
